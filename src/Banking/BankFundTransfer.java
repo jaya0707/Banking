@@ -10,7 +10,7 @@ public class BankFundTransfer {
 	public double accBalance = 100000;
 	
 	 static Scanner scan = new Scanner(System.in);
-	//() - method argument
+	
 public void fundTransfer(){
 	System.out.println("Transfer Amount : " + amount);
 	
